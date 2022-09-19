@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+	  <key>contactEmailRot13</key>
+	    <string></string>
+  
+	  <key>contactName</key>
+	    <string>FlipperPlz</string>
+  
+	  <key>description</key>
+	    <string>A bundle that adds Enforce Language Support</string>
+  
+	  <key>name</key>
+	    <string>Enforce</string>
+  
+	  <key>uuid</key>
+	    <string>19BF45E9-9A1A-43AD-81B4-E942E20CB68A</string>
+  </dict>
+</plist>
